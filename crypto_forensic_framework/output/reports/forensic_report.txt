@@ -1,0 +1,41 @@
+Cryptography-Aware Digital Forensics Report
+==================================================
+
+Total Files Scanned: 4
+Encrypted Files Detected: 2
+
+Encrypted Files:
+evidence\image.jpg.jpg
+evidence\notes.pdf.pdf
+
+SHA256 Hash Values:
+evidence\file1.txt : 9feb3f926a772566699639fe445333034d96fe98c325743baf3dd881e6d24f72
+evidence\image.jpg.jpg : 5be6cdc9eee26eaa216c1b310fc39d6d9009b7f6d53dad31dcb232ee325e8e32
+evidence\notes.pdf.pdf : 89e753013afb66ce5d2b9f5292b1a3248aaee700599eeb4af608c5ea39a74b92
+evidence\secret.enc : 89b93e844c0df772fea8dcbd5d3439f3009582064499fa6f03f39dc6dd5a53b0
+
+File Metadata Analysis:
+
+File: file1.txt
+Size: 84 bytes
+Created: 2026-03-11 00:07:34.279114
+Modified: 2026-03-11 00:27:13.174798
+Accessed: 2026-03-31 15:56:58.448114
+
+File: image.jpg.jpg
+Size: 97934 bytes
+Created: 2026-03-11 00:10:30.371817
+Modified: 2026-01-18 01:50:36.920000
+Accessed: 2026-03-31 15:56:58.528099
+
+File: notes.pdf.pdf
+Size: 1073161 bytes
+Created: 2026-03-11 00:12:38.793218
+Modified: 2025-12-22 20:37:53.640851
+Accessed: 2026-03-31 15:56:58.657636
+
+File: secret.enc
+Size: 34 bytes
+Created: 2026-03-11 00:13:54.329765
+Modified: 2026-03-11 00:14:09.746844
+Accessed: 2026-03-31 15:56:58.667352
